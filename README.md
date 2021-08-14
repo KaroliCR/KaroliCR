@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**KaroliCR/KaroliCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile 👋
 
 <h1 align="center">Hi 👋, I'm Karolay A.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karolicr&label=Profile%20views&color=0e75b6&style=flat" alt="karolicr" /> </p>
