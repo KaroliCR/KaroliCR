@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/karolicr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/karolicr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kasabor%c3%ado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasabor%c3%ado/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasabor%C3%ADo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kasabor%c3%ado/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/karolay12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/karolay12" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/ksaborio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ksaborio" height="30" width="40" /></a>
 
